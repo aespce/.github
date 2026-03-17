@@ -67,7 +67,7 @@ A AESP possui uma estrutura completa voltada para formação técnica, física e
 * Campo de futebol e pista de corrida
 * Parque aquático
 * Ambulatório
-* Refeitório ([AESP][1])
+* Refeitório
 
 Essa estrutura permite uma formação **multidisciplinar**, combinando teoria, prática e preparo físico.
 
