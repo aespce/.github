@@ -21,7 +21,7 @@ Criada pela Lei nº 14.629, de 26 de fevereiro de 2010, e inaugurada oficialment
 
 A AESP tem como principal objetivo:
 
-> Formar e capacitar, de forma integrada, todos os profissionais que compõem o sistema de segurança pública e defesa social do Estado do Ceará. ([Governo do Ceará][2])
+> Formar e capacitar, de forma integrada, todos os profissionais que compõem o sistema de segurança pública e defesa social do Estado do Ceará.
 
 Isso inclui:
 
