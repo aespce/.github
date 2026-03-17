@@ -2,17 +2,17 @@
 
 A **Academia Estadual de Segurança Pública do Ceará (AESP/CE)** é a instituição responsável pela formação, capacitação e qualificação dos profissionais que atuam na segurança pública e defesa social do Estado do Ceará.
 
-Criada pela Lei nº 14.629, de 26 de fevereiro de 2010, e inaugurada oficialmente em 18 de maio de 2011, a AESP se consolidou como uma referência nacional na formação integrada das forças de segurança. ([AESP][1])
+Criada pela Lei nº 14.629, de 26 de fevereiro de 2010, e inaugurada oficialmente em 18 de maio de 2011, a AESP se consolidou como uma referência nacional na formação integrada das forças de segurança.
 
 ---
 
 ## 📌 Visão Geral
 
 * **Nome:** Academia Estadual de Segurança Pública do Ceará (AESP/CE)
-* **Criação:** 2010 (Lei nº 14.629) ([AESP][1])
-* **Inauguração:** 18 de maio de 2011 ([Governo do Ceará][2])
-* **Vinculação:** Secretaria da Segurança Pública e Defesa Social (SSPDS) ([AESP][1])
-* **Localização:** Fortaleza – CE (bairro Mondubim) ([AESP][1])
+* **Criação:** 2010 (Lei nº 14.629)
+* **Inauguração:** 18 de maio de 2011
+* **Vinculação:** Secretaria da Segurança Pública e Defesa Social (SSPDS)
+* **Localização:** Fortaleza – CE (bairro Mondubim)
 * **Tipo:** Escola de Governo / Instituição de Ensino em Segurança Pública
 
 ---
@@ -29,7 +29,7 @@ Isso inclui:
 * Polícia Civil do Ceará (PCCE)
 * Corpo de Bombeiros Militar do Ceará (CBMCE)
 * Perícia Forense do Ceará (PEFOCE)
-* Defesa Civil e outros órgãos conveniados ([AESP][1])
+* Defesa Civil e outros órgãos conveniados
 
 ---
 
@@ -37,11 +37,11 @@ Isso inclui:
 
 ### 🎯 Missão
 
-Desenvolver e executar, de forma integrada, a formação inicial, continuada, graduação e pós-graduação dos profissionais de segurança pública, promovendo ensino, pesquisa e extensão. ([AESP][1])
+Desenvolver e executar, de forma integrada, a formação inicial, continuada, graduação e pós-graduação dos profissionais de segurança pública, promovendo ensino, pesquisa e extensão.
 
 ### 👁️ Visão
 
-Ser referência nacional e internacional na formação integrada de profissionais de segurança pública. ([AESP][1])
+Ser referência nacional e internacional na formação integrada de profissionais de segurança pública.
 
 ### 💎 Valores
 
@@ -50,7 +50,7 @@ Ser referência nacional e internacional na formação integrada de profissionai
 * Respeito à cidadania
 * Hierarquia e disciplina
 * Inovação
-* Responsabilidade social ([AESP][1])
+* Responsabilidade social
 
 ---
 
@@ -84,7 +84,7 @@ Um dos grandes diferenciais da AESP é o modelo de **formação integrada**, ond
 * Melhoria da atuação conjunta
 * Redução de conflitos operacionais
 
-Esse modelo é considerado referência no Brasil. ([AESP][3])
+Esse modelo é considerado referência no Brasil.
 
 ---
 
@@ -105,7 +105,7 @@ A AESP oferece:
 ### 🎓 Ensino Superior
 
 * Graduação
-* Pós-graduação (lato e stricto sensu) ([AESP][1])
+* Pós-graduação (lato e stricto sensu)
 
 ### 🌐 Ensino a Distância (EAD)
 
@@ -115,8 +115,8 @@ A AESP oferece:
 
 ## 📊 Impacto e Números
 
-* Mais de **68 mil profissionais capacitados** desde a criação ([Governo do Ceará][2])
-* Mais de **18 mil capacitações recentes (2023–2025)** ([Assembleia Legislativa do Ceará][4])
+* Mais de **68 mil profissionais capacitados** desde a criação
+* Mais de **18 mil capacitações recentes (2023–2025)**
 * Formação contínua de novos agentes todos os anos
 
 A AESP desempenha papel estratégico na **redução da violência e melhoria da segurança pública** no estado.
@@ -146,7 +146,7 @@ A AESP possui uma estrutura administrativa composta por:
 ### 📚 Áreas Acadêmicas
 
 * Ensino Policial Militar
-* Formação e práticas educacionais ([Governo do Ceará][5])
+* Formação e práticas educacionais
 
 ---
 
@@ -170,7 +170,7 @@ A instituição é amplamente reconhecida por:
 * Excelência na formação de profissionais
 * Integração entre forças de segurança
 * Inovação em ensino público
-* Referência nacional no setor ([AESP][3])
+* Referência nacional no setor
 
 ---
 
@@ -189,7 +189,7 @@ A AESP é peça-chave para:
 
 📌 Endereço:
 Avenida Presidente Costa e Silva, 1251
-Bairro Mondubim – Fortaleza/CE ([AESP][1])
+Bairro Mondubim – Fortaleza/CE
 
 ---
 
